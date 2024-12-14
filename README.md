@@ -6,7 +6,7 @@
 
 <a href="https://adnan-bhaldar.github.io/Sushi"><strong>Live Demo</strong></a>
 
-![preview img](/preview.png)
+![preview img](/preview.png) 
 </div>
 
 ### Responsive Lamp Website
