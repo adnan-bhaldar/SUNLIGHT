@@ -4,7 +4,7 @@
 
 <div align = 'center'>
 
-<a href="https://adnan-bhaldar.github.io/Sushi"><strong>Live Demo</strong></a>
+<a href="https://adnan-bhaldar.github.io/SUNLIGHT"><strong>Live Demo</strong></a>
 
 ![preview img](/preview.png) 
 </div>
